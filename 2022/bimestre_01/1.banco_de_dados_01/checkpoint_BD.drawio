@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T19:13:51.233Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Kh5DgOHdU-TsaTPn8CLq" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T19:15:41.613Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="pjro-9ynO8JRDrixZ74I" version="16.6.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1905" dy="2629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1964,7 +1964,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdFUFnfmi1jpFZVglpFG-672" value="ID_hematologia_resultado_exame" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-670" vertex="1">
+        <mxCell id="gdFUFnfmi1jpFZVglpFG-672" value="ID_hematologia_resultado_exame           INT" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-670" vertex="1">
           <mxGeometry x="30" width="303" height="30" as="geometry">
             <mxRectangle width="303" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1977,7 +1977,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdFUFnfmi1jpFZVglpFG-675" value="ID_bioquimica_resultado_exame" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-673" vertex="1">
+        <mxCell id="gdFUFnfmi1jpFZVglpFG-675" value="ID_bioquimica_resultado_exame             INT" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-673" vertex="1">
           <mxGeometry x="30" width="303" height="30" as="geometry">
             <mxRectangle width="303" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1990,7 +1990,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jMRaBhzQolXghAmQpVfT-3" value="ID_bioquimica_resultado_exame" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" vertex="1" parent="jMRaBhzQolXghAmQpVfT-1">
+        <mxCell id="jMRaBhzQolXghAmQpVfT-3" value="ID_bioquimica_resultado_exame             INT" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" vertex="1" parent="jMRaBhzQolXghAmQpVfT-1">
           <mxGeometry x="30" width="303" height="30" as="geometry">
             <mxRectangle width="303" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2003,7 +2003,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdFUFnfmi1jpFZVglpFG-678" value="ID_parasitologia_resultado_exame" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-676" vertex="1">
+        <mxCell id="gdFUFnfmi1jpFZVglpFG-678" value="ID_parasitologia_resultado_exame         INT" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-676" vertex="1">
           <mxGeometry x="30" width="303" height="30" as="geometry">
             <mxRectangle width="303" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2016,7 +2016,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdFUFnfmi1jpFZVglpFG-681" value="ID_endocinologia_resultado_exame" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-679" vertex="1">
+        <mxCell id="gdFUFnfmi1jpFZVglpFG-681" value="ID_endocinologia_resultado_exame       INT" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-679" vertex="1">
           <mxGeometry x="30" width="303" height="30" as="geometry">
             <mxRectangle width="303" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2029,7 +2029,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdFUFnfmi1jpFZVglpFG-684" value="ID_imunologia_resultado_exame" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-682" vertex="1">
+        <mxCell id="gdFUFnfmi1jpFZVglpFG-684" value="ID_imunologia_resultado_exame            INT" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-682" vertex="1">
           <mxGeometry x="30" width="303" height="30" as="geometry">
             <mxRectangle width="303" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2042,7 +2042,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdFUFnfmi1jpFZVglpFG-687" value="ID_micologia_resultado_exame" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-685" vertex="1">
+        <mxCell id="gdFUFnfmi1jpFZVglpFG-687" value="ID_micologia_resultado_exame              INT" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-685" vertex="1">
           <mxGeometry x="30" width="303" height="30" as="geometry">
             <mxRectangle width="303" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2055,7 +2055,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdFUFnfmi1jpFZVglpFG-690" value="ID_microbiologia_resultado_exame" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-688" vertex="1">
+        <mxCell id="gdFUFnfmi1jpFZVglpFG-690" value="ID_microbiologia_resultado_exame       INT" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-688" vertex="1">
           <mxGeometry x="30" width="303" height="30" as="geometry">
             <mxRectangle width="303" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2068,7 +2068,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdFUFnfmi1jpFZVglpFG-693" value="ID_uroanalise_resultado_exame" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-691" vertex="1">
+        <mxCell id="gdFUFnfmi1jpFZVglpFG-693" value="ID_uroanalise_resultado_exame             INT" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" parent="gdFUFnfmi1jpFZVglpFG-691" vertex="1">
           <mxGeometry x="30" width="303" height="30" as="geometry">
             <mxRectangle width="303" height="30" as="alternateBounds" />
           </mxGeometry>
